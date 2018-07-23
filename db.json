@@ -1,30 +1,32 @@
-"pais" = [
-	{
-	"nombre": "Colombia",
-	"posicion":2,
-	"medallas":{
-		"oro":40,
-		"plata":10,
-		"bronce":2
-	},
-},
-	{
-	"nombre": "mexico",
-	"posicion":1,
-	"medallas":{
-		"oro":60,
-		"plata":15,
-		"bronce":3
-	},
-},
-	{
-	"nombre": "venezuela",
-	"posicion":3,
-	"medallas":{
-		"oro":20,
-		"plata":5,
-		"bronce":1
-	},
-},
-];
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
 
