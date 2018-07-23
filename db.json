@@ -1,5 +1,4 @@
-
-var pais = [
+"pais" = [
 	{
 	"nombre": "Colombia",
 	"posicion":2,
