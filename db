@@ -1,0 +1,30 @@
+"pais" = [
+	{
+	"nombre": "Colombia",
+	"posicion":2,
+	"medallas":{
+		"oro":40,
+		"plata":10,
+		"bronce":2
+	},
+},
+	{
+	"nombre": "mexico",
+	"posicion":1,
+	"medallas":{
+		"oro":60,
+		"plata":15,
+		"bronce":3
+	},
+},
+	{
+	"nombre": "venezuela",
+	"posicion":3,
+	"medallas":{
+		"oro":20,
+		"plata":5,
+		"bronce":1
+	},
+},
+];
+
