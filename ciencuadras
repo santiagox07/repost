@@ -1,0 +1,4 @@
+{
+"message":"USER_MENU_ERROR",
+"text":"Error: No existe usuario logueado, no se puede procesar la solicitud."
+}
